@@ -17,3 +17,14 @@
 2026-Aug-25-12:11:33 : Load to Database phase: Completed -> Movies.db [Top_50]
 2026-Aug-25-12:11:33 : Validation query: Executing sample verification query
 2026-Aug-25-12:11:33 : ETL Job Terminated Successfully
+2026-Aug-25-12:31:50 : ETL Job Initialized
+2026-Aug-25-12:31:50 : Extraction phase: Started
+2026-Aug-25-12:31:52 : Extraction phase: Completed (50 records retrieved)
+2026-Aug-25-12:31:52 : Transformation phase: Started
+2026-Aug-25-12:31:52 : Transformation phase: Completed
+2026-Aug-25-12:31:52 : Load to CSV phase: Started
+2026-Aug-25-12:31:52 : Load to CSV phase: Completed -> top_50_films.csv
+2026-Aug-25-12:31:52 : Load to Database phase: Started
+2026-Aug-25-12:31:52 : Load to Database phase: Completed -> Movies.db [Top_50]
+2026-Aug-25-12:31:52 : Validation query: Executing sample verification query
+2026-Aug-25-12:31:52 : ETL Job Terminated Successfully
